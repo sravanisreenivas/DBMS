@@ -1,0 +1,9 @@
+DBMS_NOTES.txt
+Introduction: Database system
+Entity Relationship Model
+Relational Model
+BASIC SQL
+SQL
+Schema Refinement (Normalization)
+Transaction Concept
+Introduction to Indexing Techniques
